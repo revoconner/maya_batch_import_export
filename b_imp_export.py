@@ -32,7 +32,7 @@ def browseIt():
 
 
     
-def startImport():
+def startImport(files_to_import):
     newGeos = []
     #int(startFrame) + int(4)
     objGroup = None
